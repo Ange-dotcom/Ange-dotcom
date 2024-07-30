@@ -1,5 +1,11 @@
-## Hi there 👋
+##    Oii!! :butterfly:
+Meu nome é Angeline, tenho 20 anos e estou começando na área de dev
+### Conheço um pouco de:
+  - C
+  - Assembly
+  - Java
 
+### Estou atualmente aprendendo Python
 <!--
 **Ange-dotcom/Ange-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
