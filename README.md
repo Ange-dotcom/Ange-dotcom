@@ -1,22 +1,15 @@
-##    Oii!! :butterfly:
-Meu nome é Angeline, tenho 20 anos e estou começando na área de dev
-### Conheço um pouco de:
-  - C
-  - Assembly
-  - Java
+# Olá! Meu nome é [Angeline] 👋
 
-### Estou atualmente aprendendo Python
-<!--
-**Ange-dotcom/Ange-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou estudante em tempo integral de Engenharia de Controle e Automação com interesse na parte computacional. Atualmente, estou aprendendo Python. Também estou aberta a dicas e oportunidades de aprendizado.
 
-Here are some ideas to get you started:
+## 🚀 Principais Projetos
+<!-- [Projeto 1](link-para-o-repositorio): Breve descrição do projeto.-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Habilidades
+- **Linguagens de Programação:** Java, C, Assembly (MIPS)
+- **Tecnologias:** Arduino, Microcontroladores ATmega.
+
+## 📫 Contato
+<!--- **Email:** 
+- **LinkedIn:** [Seu LinkedIn](link-para-linkedin)-->
